@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: demo-bdd-mvn-cucumber
+  jackson:
+    default-property-inclusion: non_null
